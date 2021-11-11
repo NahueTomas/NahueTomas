@@ -1,4 +1,4 @@
 - Hi, I’m @NahueTomas :D
 - I’m interested in Web 3.0 👀
 - I’m currently learning React🌱
-- How to reach me: @nahuetomas (instagram 📷)
+- How to reach me: @nahuetomas (instagram) 📷
