@@ -1,2 +1,2 @@
-- Hi, I’m @NahueTomas :D
+- Hi, I’m Nahuel Tomás Rodriguez :D
 - I’m currently learning React🌱
